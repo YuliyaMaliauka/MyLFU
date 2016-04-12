@@ -1,4 +1,3 @@
-
 import lfu.MyList;
 
 public class Run1 {
@@ -37,7 +36,5 @@ public class Run1 {
 		list.get("d");
 				
 		list.print();
-		
 	}
-
 }
